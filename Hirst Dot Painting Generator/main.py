@@ -1,3 +1,6 @@
+
+# This Section extracts the color palette from the picture of your choice, 'image.jpg' in this case.
+
 # import colorgram as cg
 #
 # # rgb_list = []
@@ -9,6 +12,8 @@
 # #     new_col = (r, g, b)
 # #     rgb_list.append(new_col)
 # # print(rgb_list)
+
+#This Section does the actual generation of the Dot painting 
 
 import random
 import turtle as t
