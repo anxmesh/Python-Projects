@@ -1,6 +1,5 @@
 # United States' States Guessing game 🇺🇸
-A states guessing game inspired by Sporcle's game with 
-the same aim, modelled using pandas.
+A states guessing game inspired by <a href="https://www.sporcle.com/games/g/states"> Sporcle's game </a> with the same aim, modelled using the pandas library.
 <h4> Main.py </h4>
 Driver code to run the program. Enter the names of the states, and if entered correctly, the names will be printed on 
 their respective locations on the map. Enter 'exit' to end the game and generate a 'Learn_the_following_States.csv', 
