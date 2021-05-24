@@ -5,7 +5,7 @@ csv included)
 The program contains a csv that holds within it the 100 most commonly used words in the French language (as of 2018).
 A flash card showing French words appears upon starting this program; the program gives the user 3 seconds to try and 
 recall the translatoin before the card flips over and reveals it. 
-### The ✅ Button🇫
+### The ✅ Button
 If the word, and it's translation, are known to the user, clicking on this button will generate a new csv that contains
 all the words in the original pool minus the ones known to the user, thereby removing the chance of running into the 
 same words time and again.
