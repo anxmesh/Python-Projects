@@ -1,4 +1,4 @@
-#Automated Birthday Wisher 🎈
+# Automated Birthday Wisher 🎈
 Program in python using the SMTPlib library to autmate sending birthday iwsh emails. Can be scaled for multiple use 
 cases, as the base functionality remains the same.
 ## Functionality ⚙️
