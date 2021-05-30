@@ -6,8 +6,8 @@ The code gathers today's date, and cross references with all the birthday detail
 <br>If a match is found, it selects a random letter template from the 'letter_templates' folder, and generates a 
 message for the person who's birthday it is, which is then sent via the email provided in 'my_email' to
 the email for the person stored in the database.
-##Resources 📦
-###Letter Templates 📨
+## Resources 📦
+### Letter Templates 📨
 Folder containing some templates for a Birthday wish email/letter; templates can be added or removed based on 
 requirement.
 ### Birthdays.csv 📁
