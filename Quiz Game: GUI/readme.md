@@ -1,7 +1,7 @@
 # Quizzler: The Quiz Game 🔍
 Welcome to Quizzler, an interactive Quiz game desinged in Pythin using the tkinter module and 
 <a href="https://opentdb.com"> Open Trivia Database</a>.
-##How it Works ⚙️
+## How it Works ⚙️
 The game extracts questions from the Open Trivia Database and displays them on the screen. All questions are of the 
 True or False variety. The user can then click on the appropriate button to signify their response, and the screen 
 flashes green if they were correct, and red otherwise, before proceeding onto the next question.
