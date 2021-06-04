@@ -14,3 +14,5 @@ To modfiy these parameters, refer to the <a href="https://opentdb.com/api_config
 Contains the setup for the UI of the game.
 ### Quiz_brain.py 🧠
 contains the quiz functionality functions and the data linked to each rendition of the quiz.
+### Images 📁
+Contains the graphic elements for the game such as button images.
