@@ -6,3 +6,6 @@ Once the location has been specified, the script accesses the hourly weather dat
 the weather ID is checked, and if any ID signifiying rain exists in the 12 hours, a text message is sent to your personal phone number as specified in the code
 reminding you to carry an umbrella 🌂.
 <br> Automated using <a href="https://www.pythonanywhere.com"> PythonAnywhere. </a>
+
+<br><br> Note! For the code to work you need to replace all the placeholders with your own details. e.g. account_sid, lat/lon, from/to phone numbers.
+
