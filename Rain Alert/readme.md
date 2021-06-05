@@ -5,3 +5,4 @@ The script/app uses the <a hreaf="https://openweathermap.org/api"> OpenWeatherMa
 Once the location has been specified, the script accesses the hourly weather data for the upcomin 12 hours from when the code is run. Once that has been acquired, 
 the weather ID is checked, and if any ID signifiying rain exists in the 12 hours, a text message is sent to your personal phone number as specified in the code
 reminding you to carry an umbrella 🌂.
+<br> Automated using <a href="https://www.pythonanywhere.com"> PythonAnywhere. </a>
