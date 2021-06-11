@@ -29,8 +29,9 @@ print(song_details)
 
 ############################ Spotify API setup ############################
 
-client_id = "b16e01177a874059a497f3e121689be7"
-client_secret = "bbf7d546b74048e59ab4c8806f7af050"
+# Change the following things to your personal details from spotify dashboard
+client_id = "YOUR PERSONAL CLIENT ID"
+client_secret = "YOUR PERSONAL CLIENT SECRET"
 
 sp = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
