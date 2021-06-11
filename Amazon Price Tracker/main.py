@@ -4,13 +4,13 @@ from bs4 import BeautifulSoup
 import lxml
 import smtplib
 
-################################## Scraping the Product price #################################################################### Scraping the Product price ##################################
+################################## Scraping the Product price ##################################
 # Specify the URL of the product you wish to track the price of
 # For headers, access your browser's info here and change accordingly: http://myhttpheader.com
 URL = "https://www.amazon.com/LG-34WP65G-B-34-Inch-DisplayHDR-Adjustable/dp/B08RJ1BFJR/ref=sr_1_5?crid=Z2ZEAPBOFH0H&dchild=1&keywords=lg+34+inch+ultrawide+monitor&qid=1623387235&sprefix=lg+34+inch+%2Caps%2C344&sr=8-5"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
-    "Accept-Language": "en-us"
+    "User-Agent": "YOUR USER AGENT",
+    "Accept-Language": "YOUR ACCEPTED LANGUAGE"
 }
 
 response = requests.get(url=URL,headers=HEADERS)
